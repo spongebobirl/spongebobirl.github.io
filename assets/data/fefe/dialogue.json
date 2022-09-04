@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the poop fart doo doo crap shid are you doing in my dimension"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "rap :)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "you heard me dumbarse"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why would i wanna rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "because i said so"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "fefe",
+			"text": "man"
+		}
+	]
+}

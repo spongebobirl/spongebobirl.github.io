@@ -1,0 +1,52 @@
+{
+	"storyName": "the rapture",
+	"hideFreeplay": false,
+	"weekBackground": "fefe",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fefe",
+			"fefe",
+			[
+				0,
+				204,
+				255
+			]
+		],
+		[
+			"Fefe Too",
+			"fefe",
+			[
+				0,
+				204,
+				255
+			]
+		],
+		[
+			"Fefeing",
+			"fefe",
+			[
+				0,
+				204,
+				255
+			]
+		],
+		[
+			"Fefecial",
+			"fefecrazy",
+			[
+				0,
+				204,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fefe"
+}

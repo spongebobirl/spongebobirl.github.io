@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "fefeidle"
+		},
+		{
+			"offsets": [
+				17,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fefeleft"
+		},
+		{
+			"offsets": [
+				72,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fefedown"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fefeup"
+		},
+		{
+			"offsets": [
+				-29,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "feferight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fefemad",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "fefecrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		255
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

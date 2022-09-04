@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok im done playing with your dumbass"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "time for a 3 minute long last song with lots of random bullshit"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": "bro?"
+		}
+	]
+}

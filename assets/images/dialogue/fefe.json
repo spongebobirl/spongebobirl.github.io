@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		160
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "FEFEAPPEAR",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FEFEAPPEAR",
+			"anim": "fefe",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "fefedialogue"
+}

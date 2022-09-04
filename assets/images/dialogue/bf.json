@@ -1,76 +1,51 @@
 {
+	"dialogue_pos": "right",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "right",
+	"no_antialiasing": false,
 	"scale": 1.25,
-	"image": "BF_Dialogue",
 	"animations": [
 		{
-			"idle_offsets": [
-				-1,
-				-12
-			],
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "BF LOOP"
-		},
-		{
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"anim": "excited",
-			"loop_offsets": [
-				5,
-				0
-			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
-		},
-		{
+			"loop_name": "bf yea",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "pissed",
+			"idle_name": "bf yea",
+			"anim": "yea",
 			"loop_offsets": [
 				0,
 				0
-			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
+			]
 		},
 		{
+			"loop_name": "bf smug",
 			"idle_offsets": [
-				-6,
-				-11
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				-4,
+				0,
 				0
 			],
-			"idle_name": "BF SHOCK0",
-			"loop_name": "BF SHOCK LOOP"
+			"idle_name": "bf smug",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
 		},
 		{
-			"loop_offsets": [
-				-3,
+			"loop_name": "bf wut",
+			"idle_offsets": [
+				0,
 				0
 			],
-			"anim": "confused",
-			"idle_offsets": [
-				-6,
-				-11
-			],
-			"loop_name": "BF CONFUSED LOOP",
-			"idle_name": "BF CONFUSED0"
+			"idle_name": "bf wut",
+			"anim": "wut",
+			"loop_offsets": [
+				0,
+				0
+			]
 		}
-	]
+	],
+	"image": "bfdialogue"
 }

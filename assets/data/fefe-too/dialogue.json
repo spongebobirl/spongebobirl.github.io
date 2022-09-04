@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok that was fun"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "lol didnt ask dont care + ratio"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":neutralface:"
+		}
+	]
+}

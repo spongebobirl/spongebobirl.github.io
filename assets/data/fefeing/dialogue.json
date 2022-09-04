@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im gon-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "i didnt ask"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fefe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "189.22.7.29.131"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": "WHAT"
+		}
+	]
+}
